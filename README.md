@@ -1,2 +1,2 @@
-# NextJs-Course
-Next js concept practice repo
+#Hacker News search app
+news display mini project
